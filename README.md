@@ -44,27 +44,27 @@ Para iniciar, crie a primeira carta
 
 --- PRIMEIRA CARTA ---
 Digite o estado (A-H): A
-Digite o código da carta (ex: A01): A01
+Digite o codigo da carta (ex: A01): A01
 Digite o nome da cidade: URUGUAIANA
-Digite a população: 117210
-Digite a área: 5702098
+Digite a populacao: 117210
+Digite a area: 5704098
 Digite o PIB: 3436885536.6
-Digite o número de pontos turísticos: 8
+Digite o numero de pontos turisticos: 8
 
 Carta A01 criada com sucesso!
 
 Pressione ENTER para continuar...
 
 Estado......................: A
-Código da carta.............: A01
+Codigo da carta.............: A01
 Nome da cidade..............: URUGUAIANA
-População...................: 117210
-Área........................: 5702098.00 km²
+Populacao...................: 117210
+Area........................: 5704098.00 km2
 PIB.........................: R$ 3436885504.00
-Pontos turísticos...........: 8
+Pontos turisticos...........: 8
 PIB per capita..............: R$ 29322.46
-Densidade populacional......: 20.56 hab/km²
-Super Poder.................: 3442734336.00
+Densidade populacional......: 20.55 hab/km2
+Super Poder.................: 3442736128.00
 
 Pressione ENTER para continuar...
 
@@ -72,40 +72,41 @@ Agora, crie a segunda carta
 
 --- SEGUNDA CARTA ---
 Digite o estado (A-H): A
-Digite o código da carta (ex: A01): A02
-Digite o nome da cidade: TAQUARA
-Digite a população: 54353
-Digite a área: 450195
-Digite o PIB: 1476842212.43
-Digite o número de pontos turísticos: 9
+Digite o codigo da carta (ex: A01): A02
+Digite o nome da cidade: SAO BORJA
+Digite a populacao: 59676
+Digite a area: 3616674
+Digite o PIB: 2566797837.48
+Digite o numero de pontos turisticos: 9
 
 Carta A02 criada com sucesso!
 
 Pressione ENTER para continuar...
 
 Estado......................: A
-Código da carta.............: A02
-Nome da cidade..............: TAQUARA
-População...................: 54353
-Área........................: 450195.00 km²
-PIB.........................: R$ 1476842240.00
-Pontos turísticos...........: 9
-PIB per capita..............: R$ 27171.31
-Densidade populacional......: 120.73 hab/km²
-Super Poder.................: 1477373952.00
+Codigo da carta.............: A02
+Nome da cidade..............: SAO BORJA
+Populacao...................: 59676
+Area........................: 3616674.00 km2
+PIB.........................: R$ 2566797824.00
+Pontos turisticos...........: 9
+PIB per capita..............: R$ 43012.23
+Densidade populacional......: 16.50 hab/km2
+Super Poder.................: 2570517248.00
 
 Pressione ENTER para comparar as cartas e descobrir o vencedor...
+
 
 --- RESULTADO ---
 Vencedor....................: A01
 
 COMPARATIVO:
-População...................: A01
-Área........................: A01
+Populacao...................: A01
+Area........................: A01
 PIB.........................: A01
-Pontos turísticos...........: A02
-PIB per capita..............: A01
-Densidade populacional......: A02
+Pontos turisticos...........: A02
+PIB per capita..............: A02
+Densidade populacional......: A01
 Super Poder.................: A01
 ```
 
