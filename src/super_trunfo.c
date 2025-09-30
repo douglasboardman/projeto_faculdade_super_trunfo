@@ -229,6 +229,7 @@ FUNÇÕES COMPLEMENTARES
 ***************************************************************************************************
 */
 
+// Função auxiliar para ler dados da tela nas entradas do usuário
 void ler_dado_tela(char *prompt, void *target, char *scan_format, bool texto_com_espaco, int tamanho) {
     printf("%s", prompt);
     if (texto_com_espaco) {
@@ -240,11 +241,13 @@ void ler_dado_tela(char *prompt, void *target, char *scan_format, bool texto_com
     }
 }
 
+// Função para limpar o buffer de entrada antes da próxima leitura, para evitar truncamento de dados.
 void limpa_buffer() {
     int c;
     while ((c = getchar()) != '\n' && c != EOF);
 }
 
+// Função meramente estética para imprimir rótulos alinhados nas exibições das cartas.
 void imprimir_rotulo_alinhado(const char* rotulo) {
     // Largura definida arbitrariamente (apenas para os fins deste projeto)
     const int LARGURA_TOTAL = 28; 
